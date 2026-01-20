@@ -1,4 +1,4 @@
-# Website-sederhana
+# Aplikasi-sederhana
 Nama: Andrian Maulana Aziz
 Ide/Inovasi : Aplikasi Pengingat&Pemantau obat lansia
 Temuan Masalah: Banyak lansia yang lupa minum obat atau salah minum obat
